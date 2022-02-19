@@ -1,0 +1,6 @@
+{
+    "clientId": "ENTER_CLIENT_ID_HERE",
+	"guildId": "ENTER_GUILD_ID_HERE",
+    "token": "ENTER_TOKEN_HERE",
+    "Database": "ENTER_DATABASE_STRING_HERE"
+}
